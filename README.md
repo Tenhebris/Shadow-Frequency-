@@ -1,8 +1,8 @@
 <icecast>
   <authentication>
-    <source-password>TON_MOT_DE_PASSE_SOURCE</source-password>
+    <source-password>Tenhebris0Frequency</source-password>
     <admin-user>admin</admin-user>
-    <admin-password>TON_MOT_DE_PASSE_ADMIN</admin-password>
+    <admin-password>20Noelyn21Louisy**!!</admin-password>
   </authentication>
   <hostname>shadow-frequency.onrender.com</hostname>
   <listen-socket>
