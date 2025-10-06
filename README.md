@@ -1,2 +1,17 @@
-# Shadow-Frequency-
-Shadow Frequency, the dark and free wave. Rap, rock, cinematic and pop merge in over 150 creations born between shadow and machine.
+<icecast>
+  <authentication>
+    <source-password>TON_MOT_DE_PASSE_SOURCE</source-password>
+    <admin-user>admin</admin-user>
+    <admin-password>TON_MOT_DE_PASSE_ADMIN</admin-password>
+  </authentication>
+  <hostname>shadow-frequency.onrender.com</hostname>
+  <listen-socket>
+    <port>8000</port>
+  </listen-socket>
+  <fileserve>1</fileserve>
+  <paths>
+    <logdir>/var/log/icecast</logdir>
+    <webroot>/usr/share/icecast2/web</webroot>
+    <adminroot>/usr/share/icecast2/admin</adminroot>
+  </paths>
+</icecast>
