@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: shadow-frequency
+    env: docker
+    plan: free
+    dockerfilePath: Dockerfile
+    autoDeploy: true
